@@ -1,4 +1,4 @@
-# WinX-calculator
+# WinXのcalculator
 my first gui program
 
 实现了整数及浮点数的四则运算以及按符号优先级运算，退格，清空，左右括号，sin，幂运算，连续运算，历史记录
